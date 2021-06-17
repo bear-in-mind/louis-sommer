@@ -5,10 +5,9 @@ sections:
   - type: section_hero
     title: 'Hi, I''m Louis !'
     section_id: hero
-    content: >+
-      I'm a fullstack developer with a past in the music industry and a knack
-      for film photography.
-
+    content: >
+      I'm a fullstack developer with a background in music and a knack for film
+      photography.
     actions:
       - type: action
         label: Let's talk
